@@ -3,7 +3,7 @@ const data = [
       id: 1,
       name: "Invicta Men's Pro Diver",
       img: "https://m.media-amazon.com/images/I/71e04Q53xlL._AC_UY879_.jpg",
-      price: 74$,
+      price: 74,
       cat: "Dress",
     },
     {
